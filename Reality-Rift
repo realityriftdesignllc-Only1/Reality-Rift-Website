@@ -1,0 +1,16 @@
+reality-rift/
+├── frontend/
+│   ├── index.html
+│   ├── newsletter.html
+│   ├── ebooks.html
+│   ├── community.html
+│   ├── css/styles.css
+│   ├── js/scripts.js
+│   └── img/
+├── backend/
+│   ├── server.js
+│   ├── models/Promo.js
+│   ├── package.json
+│   ├── .env.example
+│   └── Dockerfile
+├── README.md
